@@ -1,0 +1,20 @@
+{
+  "crawler_id": "youtube.com",
+  "origin": "https://youtube.com",
+  "status": "Finished",
+  "created_at": "2026-03-22T16:25:24.127502",
+  "started_at": "2026-03-22T16:25:24.313045",
+  "finished_at": "2026-03-22T16:27:12.199676",
+  "config": {
+    "max_depth": 3,
+    "hit_rate": 100,
+    "max_queue_capacity": 10000,
+    "max_urls_to_visit": 1000
+  },
+  "stats": {
+    "urls_crawled": 155,
+    "urls_failed": 9,
+    "urls_queued": 0,
+    "urls_visited": 164
+  }
+}

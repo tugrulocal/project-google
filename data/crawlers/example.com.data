@@ -1,0 +1,20 @@
+{
+  "crawler_id": "example.com",
+  "origin": "https://example.com",
+  "status": "Finished",
+  "created_at": "2026-04-19T23:13:24.596066",
+  "started_at": "2026-04-19T23:13:24.601142",
+  "finished_at": "2026-04-19T23:13:26.462319",
+  "config": {
+    "max_depth": 1,
+    "hit_rate": 100.0,
+    "max_queue_capacity": 10000,
+    "max_urls_to_visit": 1000
+  },
+  "stats": {
+    "urls_crawled": 1,
+    "urls_failed": 0,
+    "urls_queued": 0,
+    "urls_visited": 1
+  }
+}

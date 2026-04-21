@@ -1,0 +1,5 @@
+[2026-04-19 23:25:47] Crawler starting...
+[2026-04-19 23:25:47] Seeded queue with: https://eksisozluk.com
+[2026-04-19 23:25:48] HTTP error 403: https://eksisozluk.com
+[2026-04-19 23:25:49] Queue empty - crawl finished
+[2026-04-19 23:25:49] Crawler finished. Status: Finished, URLs crawled: 0

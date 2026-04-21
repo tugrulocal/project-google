@@ -1,0 +1,20 @@
+{
+  "crawler_id": "hurriyet.com.tr",
+  "origin": "https://www.hurriyet.com.tr/",
+  "status": "Stopped",
+  "created_at": "2026-04-19T23:27:36.739915",
+  "started_at": "2026-04-19T23:27:36.750921",
+  "finished_at": "2026-04-19T23:30:34.144351",
+  "config": {
+    "max_depth": 3,
+    "hit_rate": 100,
+    "max_queue_capacity": 10000,
+    "max_urls_to_visit": 1000
+  },
+  "stats": {
+    "urls_crawled": 257,
+    "urls_failed": 0,
+    "urls_queued": 10000,
+    "urls_visited": 388
+  }
+}

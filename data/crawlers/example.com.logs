@@ -1,0 +1,7 @@
+[2026-04-19 23:13:24] Crawler starting...
+[2026-04-19 23:13:24] Seeded queue with: https://example.com
+[2026-04-19 23:13:25] Crawled: https://example.com (200)
+[2026-04-19 23:13:25] Extracted 19 total words, 16 unique from https://example.com
+[2026-04-19 23:13:25] Indexing 16 unique words from https://example.com
+[2026-04-19 23:13:26] Queue empty - crawl finished
+[2026-04-19 23:13:26] Crawler finished. Status: Finished, URLs crawled: 1

@@ -1,0 +1,595 @@
+[2026-03-22 16:25:24] Crawler starting...
+[2026-03-22 16:25:24] Seeded queue with: https://youtube.com
+[2026-03-22 16:25:24] Crawled: https://youtube.com (200)
+[2026-03-22 16:25:24] Extracted 21 total words, 21 unique from https://youtube.com
+[2026-03-22 16:25:24] Indexing 21 unique words from https://youtube.com
+[2026-03-22 16:25:25] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:25] Crawled: https://youtube.com/new (200)
+[2026-03-22 16:25:25] Extracted 21 total words, 21 unique from https://youtube.com/new
+[2026-03-22 16:25:25] Indexing 21 unique words from https://youtube.com/new
+[2026-03-22 16:25:25] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:26] Crawled: https://youtube.com/t/privacy (200)
+[2026-03-22 16:25:26] Extracted 8725 total words, 1329 unique from https://youtube.com/t/privacy
+[2026-03-22 16:25:26] Indexing 1329 unique words from https://youtube.com/t/privacy
+[2026-03-22 16:25:26] Robots.txt blocked access to https://youtube.com/t/terms?hl=en
+[2026-03-22 16:25:26] Crawled: https://youtube.com/t/contact_us (200)
+[2026-03-22 16:25:26] Extracted 406 total words, 202 unique from https://youtube.com/t/contact_us
+[2026-03-22 16:25:26] Indexing 202 unique words from https://youtube.com/t/contact_us
+[2026-03-22 16:25:26] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:27] Crawled: https://youtube.com/ (200)
+[2026-03-22 16:25:27] Extracted 21 total words, 21 unique from https://youtube.com/
+[2026-03-22 16:25:27] Indexing 21 unique words from https://youtube.com/
+[2026-03-22 16:25:27] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:28] Crawled: https://youtube.com/t/privacy?hl=en (200)
+[2026-03-22 16:25:28] Extracted 8725 total words, 1329 unique from https://youtube.com/t/privacy?hl=en
+[2026-03-22 16:25:28] Indexing 1329 unique words from https://youtube.com/t/privacy?hl=en
+[2026-03-22 16:25:28] Robots.txt blocked access to https://youtube.com/t/terms?hl=en&hl=en
+[2026-03-22 16:25:28] Crawled: https://youtube.com/t/technologies/retention?hl=en (200)
+[2026-03-22 16:25:28] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/retention?hl=en
+[2026-03-22 16:25:28] Indexing 21 unique words from https://youtube.com/t/technologies/retention?hl=en
+[2026-03-22 16:25:28] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:29] Crawled: https://youtube.com/t/technologies/partner-sites?hl=en&hl=en (200)
+[2026-03-22 16:25:29] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/partner-sites?hl=en&hl=en
+[2026-03-22 16:25:29] Indexing 21 unique words from https://youtube.com/t/technologies/partner-sites?hl=en&hl=en
+[2026-03-22 16:25:29] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:29] Crawled: https://youtube.com/t/technologies/cookies?hl=en (200)
+[2026-03-22 16:25:29] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/cookies?hl=en
+[2026-03-22 16:25:29] Indexing 21 unique words from https://youtube.com/t/technologies/cookies?hl=en
+[2026-03-22 16:25:29] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:30] Crawled: https://youtube.com/t/technologies/product-privacy?hl=en (200)
+[2026-03-22 16:25:30] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/product-privacy?hl=en
+[2026-03-22 16:25:30] Indexing 21 unique words from https://youtube.com/t/technologies/product-privacy?hl=en
+[2026-03-22 16:25:30] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:30] Crawled: https://youtube.com/t/technologies/ads?hl=en (200)
+[2026-03-22 16:25:30] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/ads?hl=en
+[2026-03-22 16:25:30] Indexing 21 unique words from https://youtube.com/t/technologies/ads?hl=en
+[2026-03-22 16:25:30] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:31] Crawled: https://youtube.com/t/technologies/location-data?hl=en (200)
+[2026-03-22 16:25:31] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/location-data?hl=en
+[2026-03-22 16:25:31] Indexing 21 unique words from https://youtube.com/t/technologies/location-data?hl=en
+[2026-03-22 16:25:31] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:31] Crawled: https://youtube.com/t/privacy/frameworks?hl=en (200)
+[2026-03-22 16:25:31] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/frameworks?hl=en
+[2026-03-22 16:25:31] Indexing 21 unique words from https://youtube.com/t/privacy/frameworks?hl=en
+[2026-03-22 16:25:31] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:32] HTTP error 404: https://youtube.com/t/technologies?hl=en
+[2026-03-22 16:25:32] Crawled: https://youtube.com/t/privacy/archive?hl=en (200)
+[2026-03-22 16:25:32] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/archive?hl=en
+[2026-03-22 16:25:32] Indexing 21 unique words from https://youtube.com/t/privacy/archive?hl=en
+[2026-03-22 16:25:32] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:32] Crawled: https://youtube.com/t/privacy/google-partners?hl=en (200)
+[2026-03-22 16:25:32] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/google-partners?hl=en
+[2026-03-22 16:25:32] Indexing 21 unique words from https://youtube.com/t/privacy/google-partners?hl=en
+[2026-03-22 16:25:32] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:33] HTTP error 404: https://youtube.com/t/faq?hl=en
+[2026-03-22 16:25:33] Crawled: https://youtube.com/t/technologies/partner-sites?hl=en (200)
+[2026-03-22 16:25:33] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/partner-sites?hl=en
+[2026-03-22 16:25:33] Indexing 21 unique words from https://youtube.com/t/technologies/partner-sites?hl=en
+[2026-03-22 16:25:33] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:34] Crawled: https://youtube.com/t/privacy/key-terms?hl=en (200)
+[2026-03-22 16:25:34] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/key-terms?hl=en
+[2026-03-22 16:25:34] Indexing 21 unique words from https://youtube.com/t/privacy/key-terms?hl=en
+[2026-03-22 16:25:34] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:34] Crawled: https://youtube.com/yt/dev (200)
+[2026-03-22 16:25:34] Extracted 337 total words, 189 unique from https://youtube.com/yt/dev
+[2026-03-22 16:25:34] Indexing 189 unique words from https://youtube.com/yt/dev
+[2026-03-22 16:25:35] Crawled: https://youtube.com/t/contentid (200)
+[2026-03-22 16:25:35] Extracted 820 total words, 358 unique from https://youtube.com/t/contentid
+[2026-03-22 16:25:35] Indexing 358 unique words from https://youtube.com/t/contentid
+[2026-03-22 16:25:35] Robots.txt blocked access to http://youtube.com/t/terms
+[2026-03-22 16:25:36] Crawled: https://youtube.com/yt/jobs (200)
+[2026-03-22 16:25:36] Extracted 464 total words, 216 unique from https://youtube.com/yt/jobs
+[2026-03-22 16:25:36] Indexing 216 unique words from https://youtube.com/yt/jobs
+[2026-03-22 16:25:37] Crawled: https://youtube.com/t/community_guidelines (200)
+[2026-03-22 16:25:37] Extracted 550 total words, 359 unique from https://youtube.com/t/community_guidelines
+[2026-03-22 16:25:37] Indexing 359 unique words from https://youtube.com/t/community_guidelines
+[2026-03-22 16:25:37] Crawled: https://youtube.com/t/advertising_overview (200)
+[2026-03-22 16:25:37] Extracted 942 total words, 474 unique from https://youtube.com/t/advertising_overview
+[2026-03-22 16:25:37] Indexing 474 unique words from https://youtube.com/t/advertising_overview
+[2026-03-22 16:25:38] Crawled: https://youtube.com/yt/about (200)
+[2026-03-22 16:25:38] Extracted 184 total words, 75 unique from https://youtube.com/yt/about
+[2026-03-22 16:25:38] Indexing 75 unique words from https://youtube.com/yt/about
+[2026-03-22 16:25:39] Crawled: https://youtube.com/t/press (200)
+[2026-03-22 16:25:39] Extracted 184 total words, 75 unique from https://youtube.com/t/press
+[2026-03-22 16:25:39] Indexing 75 unique words from https://youtube.com/t/press
+[2026-03-22 16:25:40] Crawled: https://youtube.com/t/privacy?hl=en&hl=en (200)
+[2026-03-22 16:25:40] Extracted 8725 total words, 1329 unique from https://youtube.com/t/privacy?hl=en&hl=en
+[2026-03-22 16:25:40] Indexing 1329 unique words from https://youtube.com/t/privacy?hl=en&hl=en
+[2026-03-22 16:25:40] Robots.txt blocked access to https://youtube.com/t/terms?hl=en&hl=en&hl=en
+[2026-03-22 16:25:41] HTTP error 404: https://youtube.com/t/faq?hl=en&hl=en
+[2026-03-22 16:25:41] Crawled: https://youtube.com/t/technologies/cookies?hl=en&hl=en (200)
+[2026-03-22 16:25:41] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/cookies?hl=en&hl=en
+[2026-03-22 16:25:41] Indexing 21 unique words from https://youtube.com/t/technologies/cookies?hl=en&hl=en
+[2026-03-22 16:25:41] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:41] Crawled: https://youtube.com/t/privacy/frameworks?hl=en&hl=en (200)
+[2026-03-22 16:25:41] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/frameworks?hl=en&hl=en
+[2026-03-22 16:25:41] Indexing 21 unique words from https://youtube.com/t/privacy/frameworks?hl=en&hl=en
+[2026-03-22 16:25:41] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:42] Crawled: https://youtube.com/t/technologies/partner-sites?hl=en&hl=en&hl=en (200)
+[2026-03-22 16:25:42] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/partner-sites?hl=en&hl=en&hl=en
+[2026-03-22 16:25:42] Indexing 21 unique words from https://youtube.com/t/technologies/partner-sites?hl=en&hl=en&hl=en
+[2026-03-22 16:25:42] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:42] Crawled: https://youtube.com/t/privacy/archive?hl=en&hl=en (200)
+[2026-03-22 16:25:42] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/archive?hl=en&hl=en
+[2026-03-22 16:25:42] Indexing 21 unique words from https://youtube.com/t/privacy/archive?hl=en&hl=en
+[2026-03-22 16:25:42] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:43] Crawled: https://youtube.com/t/privacy/key-terms?hl=en&hl=en (200)
+[2026-03-22 16:25:43] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/key-terms?hl=en&hl=en
+[2026-03-22 16:25:43] Indexing 21 unique words from https://youtube.com/t/privacy/key-terms?hl=en&hl=en
+[2026-03-22 16:25:43] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:43] Crawled: https://youtube.com/t/privacy/google-partners?hl=en&hl=en (200)
+[2026-03-22 16:25:43] Extracted 21 total words, 21 unique from https://youtube.com/t/privacy/google-partners?hl=en&hl=en
+[2026-03-22 16:25:43] Indexing 21 unique words from https://youtube.com/t/privacy/google-partners?hl=en&hl=en
+[2026-03-22 16:25:43] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:43] HTTP error 404: https://youtube.com/t/technologies?hl=en&hl=en
+[2026-03-22 16:25:44] Crawled: https://youtube.com/t/technologies/retention?hl=en&hl=en (200)
+[2026-03-22 16:25:44] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/retention?hl=en&hl=en
+[2026-03-22 16:25:44] Indexing 21 unique words from https://youtube.com/t/technologies/retention?hl=en&hl=en
+[2026-03-22 16:25:44] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:44] Crawled: https://youtube.com/t/technologies/location-data?hl=en&hl=en (200)
+[2026-03-22 16:25:44] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/location-data?hl=en&hl=en
+[2026-03-22 16:25:44] Indexing 21 unique words from https://youtube.com/t/technologies/location-data?hl=en&hl=en
+[2026-03-22 16:25:44] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:45] Crawled: https://youtube.com/t/technologies/product-privacy?hl=en&hl=en (200)
+[2026-03-22 16:25:45] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/product-privacy?hl=en&hl=en
+[2026-03-22 16:25:45] Indexing 21 unique words from https://youtube.com/t/technologies/product-privacy?hl=en&hl=en
+[2026-03-22 16:25:45] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:45] Crawled: https://youtube.com/t/technologies/ads?hl=en&hl=en (200)
+[2026-03-22 16:25:45] Extracted 21 total words, 21 unique from https://youtube.com/t/technologies/ads?hl=en&hl=en
+[2026-03-22 16:25:45] Indexing 21 unique words from https://youtube.com/t/technologies/ads?hl=en&hl=en
+[2026-03-22 16:25:45] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:46] Crawled: https://youtube.com/youtube/terms/api-services-terms-of-service (200)
+[2026-03-22 16:25:46] Extracted 21 total words, 21 unique from https://youtube.com/youtube/terms/api-services-terms-of-service
+[2026-03-22 16:25:46] Indexing 21 unique words from https://youtube.com/youtube/terms/api-services-terms-of-service
+[2026-03-22 16:25:46] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:46] Crawled: https://youtube.com/youtube/documentation (200)
+[2026-03-22 16:25:46] Extracted 21 total words, 21 unique from https://youtube.com/youtube/documentation
+[2026-03-22 16:25:46] Indexing 21 unique words from https://youtube.com/youtube/documentation
+[2026-03-22 16:25:46] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:47] Crawled: https://youtube.com/youtube/terms/developer-policies (200)
+[2026-03-22 16:25:47] Extracted 21 total words, 21 unique from https://youtube.com/youtube/terms/developer-policies
+[2026-03-22 16:25:47] Indexing 21 unique words from https://youtube.com/youtube/terms/developer-policies
+[2026-03-22 16:25:47] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:48] Crawled: https://youtube.com/youtube/youtube_player_demo (200)
+[2026-03-22 16:25:48] Extracted 21 total words, 21 unique from https://youtube.com/youtube/youtube_player_demo
+[2026-03-22 16:25:48] Indexing 21 unique words from https://youtube.com/youtube/youtube_player_demo
+[2026-03-22 16:25:48] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:48] Crawled: https://youtube.com/youtube/terms/branding-guidelines (200)
+[2026-03-22 16:25:48] Extracted 21 total words, 21 unique from https://youtube.com/youtube/terms/branding-guidelines
+[2026-03-22 16:25:48] Indexing 21 unique words from https://youtube.com/youtube/terms/branding-guidelines
+[2026-03-22 16:25:48] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:48] HTTP error 404: https://youtube.com/products
+[2026-03-22 16:25:49] Crawled: https://youtube.com/youtube/youtube_subscribe_button (200)
+[2026-03-22 16:25:49] Extracted 21 total words, 21 unique from https://youtube.com/youtube/youtube_subscribe_button
+[2026-03-22 16:25:49] Indexing 21 unique words from https://youtube.com/youtube/youtube_subscribe_button
+[2026-03-22 16:25:49] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:50] Crawled: https://youtube.com/youtube/code_samples (200)
+[2026-03-22 16:25:50] Extracted 21 total words, 21 unique from https://youtube.com/youtube/code_samples
+[2026-03-22 16:25:50] Indexing 21 unique words from https://youtube.com/youtube/code_samples
+[2026-03-22 16:25:50] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:51] Crawled: https://youtube.com/youtube/terms/required-minimum-functionality (200)
+[2026-03-22 16:25:51] Extracted 21 total words, 21 unique from https://youtube.com/youtube/terms/required-minimum-functionality
+[2026-03-22 16:25:51] Indexing 21 unique words from https://youtube.com/youtube/terms/required-minimum-functionality
+[2026-03-22 16:25:51] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:51] Crawled: https://youtube.com/youtube (200)
+[2026-03-22 16:25:51] Extracted 21 total words, 21 unique from https://youtube.com/youtube
+[2026-03-22 16:25:51] Indexing 21 unique words from https://youtube.com/youtube
+[2026-03-22 16:25:51] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:52] HTTP error 404: https://youtube.com/terms/site-terms
+[2026-03-22 16:25:53] Crawled: https://youtube.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:25:53] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:53] Indexing 21 unique words from https://youtube.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:53] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:53] Crawled: https://youtube.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:25:53] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:53] Indexing 21 unique words from https://youtube.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:53] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:54] Crawled: https://youtube.com/youtube/topic/13521391?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:25:54] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/13521391?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:25:54] Indexing 21 unique words from https://youtube.com/youtube/topic/13521391?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:25:54] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:55] Crawled: https://youtube.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:25:55] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:55] Indexing 21 unique words from https://youtube.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:55] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:55] Crawled: https://youtube.com/youtube/answer/3367684 (200)
+[2026-03-22 16:25:55] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/3367684
+[2026-03-22 16:25:55] Indexing 21 unique words from https://youtube.com/youtube/answer/3367684
+[2026-03-22 16:25:55] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:56] Crawled: https://youtube.com/youtube/topic/9282364?hl=en&ref_topic=2676339 (200)
+[2026-03-22 16:25:56] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9282364?hl=en&ref_topic=2676339
+[2026-03-22 16:25:56] Indexing 21 unique words from https://youtube.com/youtube/topic/9282364?hl=en&ref_topic=2676339
+[2026-03-22 16:25:56] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:57] Crawled: https://youtube.com/youtube/answer/2797454 (200)
+[2026-03-22 16:25:57] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/2797454
+[2026-03-22 16:25:57] Indexing 21 unique words from https://youtube.com/youtube/answer/2797454
+[2026-03-22 16:25:57] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:58] Crawled: https://youtube.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:25:58] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:58] Indexing 21 unique words from https://youtube.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:58] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:58] Crawled: https://youtube.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:25:58] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:58] Indexing 21 unique words from https://youtube.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:25:58] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:59] Crawled: https://youtube.com/youtube/community?hl=en&help_center_link=CLreqgESFEhvdyBDb250ZW50IElEIHdvcmtz (200)
+[2026-03-22 16:25:59] Extracted 21 total words, 21 unique from https://youtube.com/youtube/community?hl=en&help_center_link=CLreqgESFEhvdyBDb250ZW50IElEIHdvcmtz
+[2026-03-22 16:25:59] Indexing 21 unique words from https://youtube.com/youtube/community?hl=en&help_center_link=CLreqgESFEhvdyBDb250ZW50IElEIHdvcmtz
+[2026-03-22 16:25:59] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:25:59] Crawled: https://youtube.com/youtube/topic/2888603?hl=en&ref_topic=9257498,3230811,3256124, (200)
+[2026-03-22 16:25:59] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/2888603?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:25:59] Indexing 21 unique words from https://youtube.com/youtube/topic/2888603?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:25:59] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:00] Crawled: https://youtube.com/youtube/topic/9257105?hl=en&ref_topic=9257500,3230811,3256124, (200)
+[2026-03-22 16:26:00] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257105?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:00] Indexing 21 unique words from https://youtube.com/youtube/topic/9257105?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:00] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:00] Crawled: https://youtube.com/youtube/topic/16856213?hl=en&ref_topic=9257430,3230811,3256124, (200)
+[2026-03-22 16:26:00] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/16856213?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:01] Indexing 21 unique words from https://youtube.com/youtube/topic/16856213?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:01] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:01] Crawled: https://youtube.com/youtube/topic/9267757?hl=en&ref_topic=9257107,3230811,3256124, (200)
+[2026-03-22 16:26:01] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9267757?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:01] Indexing 21 unique words from https://youtube.com/youtube/topic/9267757?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:01] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:02] Crawled: https://youtube.com/youtube/topic/12155486?hl=en&ref_topic=9257430,3230811,3256124, (200)
+[2026-03-22 16:26:02] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/12155486?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:02] Indexing 21 unique words from https://youtube.com/youtube/topic/12155486?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:02] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:02] Crawled: https://youtube.com/youtube/topic/16547?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:02] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/16547?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:02] Indexing 21 unique words from https://youtube.com/youtube/topic/16547?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:02] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:03] Crawled: https://youtube.com/youtube/answer/6013276 (200)
+[2026-03-22 16:26:03] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/6013276
+[2026-03-22 16:26:03] Indexing 21 unique words from https://youtube.com/youtube/answer/6013276
+[2026-03-22 16:26:03] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:04] Crawled: https://youtube.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:26:04] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:26:04] Indexing 21 unique words from https://youtube.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:26:04] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:04] Crawled: https://youtube.com/youtube/answer/11100886?hl=en&ref_topic=9282364 (200)
+[2026-03-22 16:26:04] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/11100886?hl=en&ref_topic=9282364
+[2026-03-22 16:26:04] Indexing 21 unique words from https://youtube.com/youtube/answer/11100886?hl=en&ref_topic=9282364
+[2026-03-22 16:26:04] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:05] Crawled: https://youtube.com/youtube/topic/9240125?hl=en&ref_topic=9257986,3230811,3256124, (200)
+[2026-03-22 16:26:05] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9240125?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:05] Indexing 21 unique words from https://youtube.com/youtube/topic/9240125?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:05] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:05] Crawled: https://youtube.com/youtube/answer/1311402 (200)
+[2026-03-22 16:26:05] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/1311402
+[2026-03-22 16:26:05] Indexing 21 unique words from https://youtube.com/youtube/answer/1311402
+[2026-03-22 16:26:05] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:06] Crawled: https://youtube.com/youtube/contact/copyright_management_tools_form (200)
+[2026-03-22 16:26:06] Extracted 21 total words, 21 unique from https://youtube.com/youtube/contact/copyright_management_tools_form
+[2026-03-22 16:26:06] Indexing 21 unique words from https://youtube.com/youtube/contact/copyright_management_tools_form
+[2026-03-22 16:26:06] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:07] Crawled: https://youtube.com/?tab=uu (200)
+[2026-03-22 16:26:07] Extracted 21 total words, 21 unique from https://youtube.com/?tab=uu
+[2026-03-22 16:26:07] Indexing 21 unique words from https://youtube.com/?tab=uu
+[2026-03-22 16:26:07] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:07] Crawled: https://youtube.com/youtube/topic/12751231?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:07] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/12751231?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:07] Indexing 21 unique words from https://youtube.com/youtube/topic/12751231?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:07] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:08] Crawled: https://youtube.com/youtube/topic/2676339?hl=en&ref_topic=6151248 (200)
+[2026-03-22 16:26:08] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/2676339?hl=en&ref_topic=6151248
+[2026-03-22 16:26:08] Indexing 21 unique words from https://youtube.com/youtube/topic/2676339?hl=en&ref_topic=6151248
+[2026-03-22 16:26:08] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:09] Crawled: https://youtube.com/youtube/topic/12182592?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:09] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/12182592?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:09] Indexing 21 unique words from https://youtube.com/youtube/topic/12182592?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:09] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:10] Crawled: https://youtube.com/youtube/answer/15912865?hl=en&ref_topic=9282364 (200)
+[2026-03-22 16:26:10] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/15912865?hl=en&ref_topic=9282364
+[2026-03-22 16:26:10] Indexing 21 unique words from https://youtube.com/youtube/answer/15912865?hl=en&ref_topic=9282364
+[2026-03-22 16:26:10] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:11] Crawled: https://youtube.com/youtube/answer/2797466 (200)
+[2026-03-22 16:26:11] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/2797466
+[2026-03-22 16:26:11] Indexing 21 unique words from https://youtube.com/youtube/answer/2797466
+[2026-03-22 16:26:11] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:11] Crawled: https://youtube.com/youtube/topic/2676339?hl=en&ref_topic=6151248,3230811,3256124, (200)
+[2026-03-22 16:26:11] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/2676339?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:11] Indexing 21 unique words from https://youtube.com/youtube/topic/2676339?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:11] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:12] Crawled: https://youtube.com/youtube/topic/2803240?hl=en&ref_topic=6151248,3230811,3256124, (200)
+[2026-03-22 16:26:12] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/2803240?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:12] Indexing 21 unique words from https://youtube.com/youtube/topic/2803240?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:12] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:13] Crawled: https://youtube.com/youtube/topic/9257112?hl=en&ref_topic=9257107,3230811,3256124, (200)
+[2026-03-22 16:26:13] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257112?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:13] Indexing 21 unique words from https://youtube.com/youtube/topic/9257112?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:13] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:13] Crawled: https://youtube.com/youtube?hl=en (200)
+[2026-03-22 16:26:13] Extracted 21 total words, 21 unique from https://youtube.com/youtube?hl=en
+[2026-03-22 16:26:13] Indexing 21 unique words from https://youtube.com/youtube?hl=en
+[2026-03-22 16:26:13] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:14] Crawled: https://youtube.com/youtube/topic/9257518?hl=en&ref_topic=9257107,3230811,3256124, (200)
+[2026-03-22 16:26:14] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257518?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:14] Indexing 21 unique words from https://youtube.com/youtube/topic/9257518?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:14] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:15] Crawled: https://youtube.com/youtube/topic/9153567?hl=en&ref_topic=9257986,3230811,3256124, (200)
+[2026-03-22 16:26:15] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9153567?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:15] Indexing 21 unique words from https://youtube.com/youtube/topic/9153567?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:15] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:15] Crawled: https://youtube.com/youtube/answer/9245819?hl=en&ref_topic=9282364 (200)
+[2026-03-22 16:26:15] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/9245819?hl=en&ref_topic=9282364
+[2026-03-22 16:26:15] Indexing 21 unique words from https://youtube.com/youtube/answer/9245819?hl=en&ref_topic=9282364
+[2026-03-22 16:26:15] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:16] Crawled: https://youtube.com/youtube/topic/11407695?hl=en&ref_topic=9257986,3230811,3256124, (200)
+[2026-03-22 16:26:16] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/11407695?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:16] Indexing 21 unique words from https://youtube.com/youtube/topic/11407695?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:16] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:17] Crawled: https://youtube.com/youtube/answer/6005923?hl=en&ref_topic=9282364 (200)
+[2026-03-22 16:26:17] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/6005923?hl=en&ref_topic=9282364
+[2026-03-22 16:26:17] Indexing 21 unique words from https://youtube.com/youtube/answer/6005923?hl=en&ref_topic=9282364
+[2026-03-22 16:26:17] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:17] Crawled: https://youtube.com/youtube/topic/9257786?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:17] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257786?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:17] Indexing 21 unique words from https://youtube.com/youtube/topic/9257786?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:17] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:18] Crawled: https://youtube.com/youtube/answer/2797370 (200)
+[2026-03-22 16:26:18] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/2797370
+[2026-03-22 16:26:18] Indexing 21 unique words from https://youtube.com/youtube/answer/2797370
+[2026-03-22 16:26:18] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:18] Crawled: https://youtube.com/youtube/topic/9257894?hl=en&ref_topic=9257986,3230811,3256124, (200)
+[2026-03-22 16:26:18] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257894?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:18] Indexing 21 unique words from https://youtube.com/youtube/topic/9257894?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:18] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:19] Crawled: https://youtube.com/youtube/topic/9257891?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:19] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257891?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:19] Indexing 21 unique words from https://youtube.com/youtube/topic/9257891?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:19] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:20] Crawled: https://youtube.com/youtube/topic/9257502?hl=en&ref_topic=9257500,3230811,3256124, (200)
+[2026-03-22 16:26:20] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257502?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:20] Indexing 21 unique words from https://youtube.com/youtube/topic/9257502?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:20] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:20] Crawled: https://youtube.com/youtube/topic/9153648?hl=en&ref_topic=9257986,3230811,3256124, (200)
+[2026-03-22 16:26:20] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9153648?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:20] Indexing 21 unique words from https://youtube.com/youtube/topic/9153648?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:21] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:21] Crawled: https://youtube.com/youtube/answer/7000961 (200)
+[2026-03-22 16:26:21] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/7000961
+[2026-03-22 16:26:21] Indexing 21 unique words from https://youtube.com/youtube/answer/7000961
+[2026-03-22 16:26:21] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:22] Crawled: https://youtube.com/youtube/topic/16856370?hl=en&ref_topic=9257430,3230811,3256124, (200)
+[2026-03-22 16:26:22] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/16856370?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:22] Indexing 21 unique words from https://youtube.com/youtube/topic/16856370?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:22] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:22] Crawled: https://youtube.com/youtube/topic/9257418?hl=en&ref_topic=9257500,3230811,3256124, (200)
+[2026-03-22 16:26:22] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257418?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:22] Indexing 21 unique words from https://youtube.com/youtube/topic/9257418?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:22] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:27] Crawled: https://youtube.com/youtube/topic/16857255?hl=en&ref_topic=9257430,3230811,3256124, (200)
+[2026-03-22 16:26:27] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/16857255?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:27] Indexing 21 unique words from https://youtube.com/youtube/topic/16857255?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:27] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:27] Crawled: https://youtube.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:26:27] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:26:27] Indexing 21 unique words from https://youtube.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:26:27] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:28] Crawled: https://youtube.com/youtube/answer/7648743?hl=en&ref_topic=9282364 (200)
+[2026-03-22 16:26:28] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/7648743?hl=en&ref_topic=9282364
+[2026-03-22 16:26:28] Indexing 21 unique words from https://youtube.com/youtube/answer/7648743?hl=en&ref_topic=9282364
+[2026-03-22 16:26:28] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:28] Crawled: https://youtube.com/youtube/topic/9257408?hl=en&ref_topic=9257500,3230811,3256124, (200)
+[2026-03-22 16:26:28] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257408?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:28] Indexing 21 unique words from https://youtube.com/youtube/topic/9257408?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:29] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:29] Crawled: https://youtube.com/youtube/topic/13401449?hl=en&ref_topic=9257498,3230811,3256124, (200)
+[2026-03-22 16:26:29] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/13401449?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:29] Indexing 21 unique words from https://youtube.com/youtube/topic/13401449?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:29] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:30] Crawled: https://youtube.com/youtube/topic/9153641?hl=en&ref_topic=9257986,3230811,3256124, (200)
+[2026-03-22 16:26:30] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9153641?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:30] Indexing 21 unique words from https://youtube.com/youtube/topic/9153641?hl=en&ref_topic=9257986,3230811,3256124,
+[2026-03-22 16:26:30] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:31] Crawled: https://youtube.com/youtube/topic/9257532?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:31] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257532?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:31] Indexing 21 unique words from https://youtube.com/youtube/topic/9257532?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:31] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:32] Crawled: https://youtube.com/youtube/announcements/11909013 (200)
+[2026-03-22 16:26:32] Extracted 21 total words, 21 unique from https://youtube.com/youtube/announcements/11909013
+[2026-03-22 16:26:32] Indexing 21 unique words from https://youtube.com/youtube/announcements/11909013
+[2026-03-22 16:26:32] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:33] Crawled: https://youtube.com/youtube/topic/13343244?hl=en&ref_topic=9257498,3230811,3256124, (200)
+[2026-03-22 16:26:33] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/13343244?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:33] Indexing 21 unique words from https://youtube.com/youtube/topic/13343244?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:33] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:33] Crawled: https://youtube.com/youtube/topic/9257530?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:33] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257530?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:33] Indexing 21 unique words from https://youtube.com/youtube/topic/9257530?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:33] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:34] Crawled: https://youtube.com/youtube/topic/13401855?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:34] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/13401855?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:34] Indexing 21 unique words from https://youtube.com/youtube/topic/13401855?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:34] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:35] Crawled: https://youtube.com/youtube/topic/9257116?hl=en&ref_topic=9257430,3230811,3256124, (200)
+[2026-03-22 16:26:35] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257116?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:35] Indexing 21 unique words from https://youtube.com/youtube/topic/9257116?hl=en&ref_topic=9257430,3230811,3256124,
+[2026-03-22 16:26:35] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:35] Crawled: https://youtube.com/youtube/topic/9257108?hl=en&ref_topic=9257107,3230811,3256124, (200)
+[2026-03-22 16:26:35] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257108?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:35] Indexing 21 unique words from https://youtube.com/youtube/topic/9257108?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:35] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:36] Crawled: https://youtube.com/youtube/topic/13401752?hl=en&ref_topic=9257107,3230811,3256124, (200)
+[2026-03-22 16:26:36] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/13401752?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:36] Indexing 21 unique words from https://youtube.com/youtube/topic/13401752?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:36] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:37] Crawled: https://youtube.com/youtube/topic/15279060?hl=en&ref_topic=10314939,3230811,3256124, (200)
+[2026-03-22 16:26:37] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/15279060?hl=en&ref_topic=10314939,3230811,3256124,
+[2026-03-22 16:26:37] Indexing 21 unique words from https://youtube.com/youtube/topic/15279060?hl=en&ref_topic=10314939,3230811,3256124,
+[2026-03-22 16:26:37] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:37] Crawled: https://youtube.com/youtube/topic/3024171?hl=en&ref_topic=9257498,3230811,3256124, (200)
+[2026-03-22 16:26:37] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/3024171?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:37] Indexing 21 unique words from https://youtube.com/youtube/topic/3024171?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:37] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:38] Crawled: https://youtube.com/youtube/topic/15279671?hl=en&ref_topic=10314939,3230811,3256124, (200)
+[2026-03-22 16:26:38] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/15279671?hl=en&ref_topic=10314939,3230811,3256124,
+[2026-03-22 16:26:38] Indexing 21 unique words from https://youtube.com/youtube/topic/15279671?hl=en&ref_topic=10314939,3230811,3256124,
+[2026-03-22 16:26:38] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:39] Crawled: https://youtube.com/youtube/topic/9257404?hl=en&ref_topic=9257498,3230811,3256124, (200)
+[2026-03-22 16:26:39] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257404?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:39] Indexing 21 unique words from https://youtube.com/youtube/topic/9257404?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:39] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:40] Crawled: https://youtube.com/youtube/topic/9257536?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:40] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257536?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:40] Indexing 21 unique words from https://youtube.com/youtube/topic/9257536?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:40] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:40] Crawled: https://youtube.com/youtube/topic/10343432?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:40] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/10343432?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:40] Indexing 21 unique words from https://youtube.com/youtube/topic/10343432?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:40] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:41] Crawled: https://youtube.com/youtube/topic/9257423?hl=en&ref_topic=9257500,3230811,3256124, (200)
+[2026-03-22 16:26:41] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257423?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:41] Indexing 21 unique words from https://youtube.com/youtube/topic/9257423?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:41] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:41] Crawled: https://youtube.com/youtube/topic/2803138?hl=en&ref_topic=6151248,3230811,3256124, (200)
+[2026-03-22 16:26:41] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/2803138?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:41] Indexing 21 unique words from https://youtube.com/youtube/topic/2803138?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:41] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:42] Crawled: https://youtube.com/youtube/topic/9153641?hl=en&ref_topic=9257498,3230811,3256124, (200)
+[2026-03-22 16:26:42] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9153641?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:42] Indexing 21 unique words from https://youtube.com/youtube/topic/9153641?hl=en&ref_topic=9257498,3230811,3256124,
+[2026-03-22 16:26:42] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:43] Crawled: https://youtube.com/youtube/topic/9257096?hl=en&ref_topic=9257500,3230811,3256124, (200)
+[2026-03-22 16:26:43] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257096?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:43] Indexing 21 unique words from https://youtube.com/youtube/topic/9257096?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:43] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:43] Crawled: https://youtube.com/youtube/answer/6013275 (200)
+[2026-03-22 16:26:43] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/6013275
+[2026-03-22 16:26:43] Indexing 21 unique words from https://youtube.com/youtube/answer/6013275
+[2026-03-22 16:26:43] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:44] Crawled: https://youtube.com/youtube/topic/3024171?hl=en&ref_topic=9257107,3230811,3256124, (200)
+[2026-03-22 16:26:44] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/3024171?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:44] Indexing 21 unique words from https://youtube.com/youtube/topic/3024171?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:44] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:45] Crawled: https://youtube.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124, (200)
+[2026-03-22 16:26:45] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:26:45] Indexing 21 unique words from https://youtube.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124,
+[2026-03-22 16:26:45] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:46] Crawled: https://youtube.com/youtube/topic/9257889?hl=en&ref_topic=9257610,3230811,3256124, (200)
+[2026-03-22 16:26:46] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257889?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:46] Indexing 21 unique words from https://youtube.com/youtube/topic/9257889?hl=en&ref_topic=9257610,3230811,3256124,
+[2026-03-22 16:26:46] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:46] Crawled: https://youtube.com/youtube/answer/1311402?hl=en&ref_topic=9282364 (200)
+[2026-03-22 16:26:46] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/1311402?hl=en&ref_topic=9282364
+[2026-03-22 16:26:46] Indexing 21 unique words from https://youtube.com/youtube/answer/1311402?hl=en&ref_topic=9282364
+[2026-03-22 16:26:46] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:47] Crawled: https://youtube.com/youtube/answer/15269184?hl=en&ref_topic=9282364 (200)
+[2026-03-22 16:26:47] Extracted 21 total words, 21 unique from https://youtube.com/youtube/answer/15269184?hl=en&ref_topic=9282364
+[2026-03-22 16:26:47] Indexing 21 unique words from https://youtube.com/youtube/answer/15269184?hl=en&ref_topic=9282364
+[2026-03-22 16:26:47] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:48] Crawled: https://youtube.com/youtube/topic/15848873?hl=en&ref_topic=9257107,3230811,3256124, (200)
+[2026-03-22 16:26:48] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/15848873?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:48] Indexing 21 unique words from https://youtube.com/youtube/topic/15848873?hl=en&ref_topic=9257107,3230811,3256124,
+[2026-03-22 16:26:48] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:48] Crawled: https://youtube.com/youtube/topic/2803176?hl=en&ref_topic=6151248,3230811,3256124, (200)
+[2026-03-22 16:26:48] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/2803176?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:48] Indexing 21 unique words from https://youtube.com/youtube/topic/2803176?hl=en&ref_topic=6151248,3230811,3256124,
+[2026-03-22 16:26:48] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:49] Crawled: https://youtube.com/youtube/topic/9257404?hl=en&ref_topic=9257500,3230811,3256124, (200)
+[2026-03-22 16:26:49] Extracted 21 total words, 21 unique from https://youtube.com/youtube/topic/9257404?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:49] Indexing 21 unique words from https://youtube.com/youtube/topic/9257404?hl=en&ref_topic=9257500,3230811,3256124,
+[2026-03-22 16:26:49] Robots.txt blocked access to https://youtube.com/t/terms
+[2026-03-22 16:26:49] Crawled: https://youtube.com/jobs/product-and-design (200)
+[2026-03-22 16:26:49] Extracted 333 total words, 153 unique from https://youtube.com/jobs/product-and-design
+[2026-03-22 16:26:49] Indexing 153 unique words from https://youtube.com/jobs/product-and-design
+[2026-03-22 16:26:50] Crawled: https://youtube.com/jobs/business-and-operations (200)
+[2026-03-22 16:26:50] Extracted 429 total words, 200 unique from https://youtube.com/jobs/business-and-operations
+[2026-03-22 16:26:50] Indexing 200 unique words from https://youtube.com/jobs/business-and-operations
+[2026-03-22 16:26:50] Crawled: https://youtube.com/jobs/engineering (200)
+[2026-03-22 16:26:50] Extracted 377 total words, 175 unique from https://youtube.com/jobs/engineering
+[2026-03-22 16:26:50] Indexing 175 unique words from https://youtube.com/jobs/engineering
+[2026-03-22 16:26:51] Crawled: https://youtube.com/jobs/trust-and-safety (200)
+[2026-03-22 16:26:51] Extracted 360 total words, 164 unique from https://youtube.com/jobs/trust-and-safety
+[2026-03-22 16:26:51] Indexing 164 unique words from https://youtube.com/jobs/trust-and-safety
+[2026-03-22 16:26:51] Crawled: https://youtube.com/jobs (200)
+[2026-03-22 16:26:51] Extracted 464 total words, 216 unique from https://youtube.com/jobs
+[2026-03-22 16:26:51] Indexing 216 unique words from https://youtube.com/jobs
+[2026-03-22 16:26:51] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/copyright (200)
+[2026-03-22 16:26:51] Extracted 655 total words, 291 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/copyright
+[2026-03-22 16:26:51] Indexing 291 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/copyright
+[2026-03-22 16:26:52] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/creator-economy (200)
+[2026-03-22 16:26:52] Extracted 837 total words, 480 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/creator-economy
+[2026-03-22 16:26:52] Indexing 480 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/creator-economy
+[2026-03-22 16:26:52] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks (200)
+[2026-03-22 16:26:52] Extracted 430 total words, 295 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks
+[2026-03-22 16:26:52] Indexing 295 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks
+[2026-03-22 16:26:53] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/our-policies (200)
+[2026-03-22 16:26:53] Extracted 550 total words, 359 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/our-policies
+[2026-03-22 16:26:53] Indexing 359 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/our-policies
+[2026-03-22 16:26:53] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/privacy (200)
+[2026-03-22 16:26:53] Extracted 503 total words, 231 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/privacy
+[2026-03-22 16:26:53] Indexing 231 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/privacy
+[2026-03-22 16:26:54] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/elections (200)
+[2026-03-22 16:26:54] Extracted 1120 total words, 480 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/elections
+[2026-03-22 16:26:54] Indexing 480 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/elections
+[2026-03-22 16:26:54] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/news (200)
+[2026-03-22 16:26:54] Extracted 602 total words, 308 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/news
+[2026-03-22 16:26:54] Indexing 308 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/news
+[2026-03-22 16:26:55] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/youtubes-impact (200)
+[2026-03-22 16:26:55] Extracted 1043 total words, 459 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/youtubes-impact
+[2026-03-22 16:26:55] Indexing 459 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/youtubes-impact
+[2026-03-22 16:26:55] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/learning (200)
+[2026-03-22 16:26:55] Extracted 960 total words, 540 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/learning
+[2026-03-22 16:26:55] Indexing 540 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/learning
+[2026-03-22 16:26:56] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/ai (200)
+[2026-03-22 16:26:56] Extracted 833 total words, 488 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/ai
+[2026-03-22 16:26:56] Indexing 488 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/ai
+[2026-03-22 16:26:56] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/kids-and-teens (200)
+[2026-03-22 16:26:56] Extracted 1147 total words, 654 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/kids-and-teens
+[2026-03-22 16:26:56] Indexing 654 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/kids-and-teens
+[2026-03-22 16:26:57] Crawled: https://youtube.com/intl/ALL_tr/howyoutubeworks/recommendations (200)
+[2026-03-22 16:26:57] Extracted 688 total words, 321 unique from https://youtube.com/intl/ALL_tr/howyoutubeworks/recommendations
+[2026-03-22 16:26:57] Indexing 321 unique words from https://youtube.com/intl/ALL_tr/howyoutubeworks/recommendations
+[2026-03-22 16:26:58] Crawled: https://youtube.com/intl/ALL_tr/ads/how-it-works (200)
+[2026-03-22 16:26:58] Extracted 1191 total words, 466 unique from https://youtube.com/intl/ALL_tr/ads/how-it-works
+[2026-03-22 16:26:58] Indexing 466 unique words from https://youtube.com/intl/ALL_tr/ads/how-it-works
+[2026-03-22 16:26:58] Crawled: https://youtube.com/intl/ALL_tr/ads/resources/success-stories (200)
+[2026-03-22 16:26:58] Extracted 1986 total words, 738 unique from https://youtube.com/intl/ALL_tr/ads/resources/success-stories
+[2026-03-22 16:26:58] Indexing 738 unique words from https://youtube.com/intl/ALL_tr/ads/resources/success-stories
+[2026-03-22 16:27:00] Crawled: https://youtube.com/ads/signup (200)
+[2026-03-22 16:27:00] Extracted 126 total words, 116 unique from https://youtube.com/ads/signup
+[2026-03-22 16:27:00] Indexing 116 unique words from https://youtube.com/ads/signup
+[2026-03-22 16:27:01] Crawled: https://youtube.com/intl/ALL_tr/ads/how-it-works/measure-your-results (200)
+[2026-03-22 16:27:01] Extracted 1513 total words, 692 unique from https://youtube.com/intl/ALL_tr/ads/how-it-works/measure-your-results
+[2026-03-22 16:27:01] Indexing 692 unique words from https://youtube.com/intl/ALL_tr/ads/how-it-works/measure-your-results
+[2026-03-22 16:27:01] Crawled: https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign/audience (200)
+[2026-03-22 16:27:01] Extracted 1191 total words, 466 unique from https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign/audience
+[2026-03-22 16:27:01] Indexing 466 unique words from https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign/audience
+[2026-03-22 16:27:02] Crawled: https://youtube.com/intl/ALL_tr/ads/resources/measurement-tools (200)
+[2026-03-22 16:27:02] Extracted 1513 total words, 692 unique from https://youtube.com/intl/ALL_tr/ads/resources/measurement-tools
+[2026-03-22 16:27:02] Indexing 692 unique words from https://youtube.com/intl/ALL_tr/ads/resources/measurement-tools
+[2026-03-22 16:27:03] Crawled: https://youtube.com/intl/ALL_tr/ads/youtube-for-small-business (200)
+[2026-03-22 16:27:03] Extracted 1986 total words, 738 unique from https://youtube.com/intl/ALL_tr/ads/youtube-for-small-business
+[2026-03-22 16:27:03] Indexing 738 unique words from https://youtube.com/intl/ALL_tr/ads/youtube-for-small-business
+[2026-03-22 16:27:03] Crawled: https://youtube.com/intl/ALL_tr/ads/resources/creator-promotions (200)
+[2026-03-22 16:27:04] Extracted 1292 total words, 546 unique from https://youtube.com/intl/ALL_tr/ads/resources/creator-promotions
+[2026-03-22 16:27:04] Indexing 546 unique words from https://youtube.com/intl/ALL_tr/ads/resources/creator-promotions
+[2026-03-22 16:27:04] Crawled: https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign (200)
+[2026-03-22 16:27:04] Extracted 1191 total words, 466 unique from https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign
+[2026-03-22 16:27:04] Indexing 466 unique words from https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign
+[2026-03-22 16:27:05] HTTP error 404: https://youtube.com/intl/ALL_tr/ads/resources/creative-resources
+[2026-03-22 16:27:06] Crawled: https://youtube.com/intl/ALL_tr/ads/news-and-inspiration (200)
+[2026-03-22 16:27:06] Extracted 1986 total words, 738 unique from https://youtube.com/intl/ALL_tr/ads/news-and-inspiration
+[2026-03-22 16:27:06] Indexing 738 unique words from https://youtube.com/intl/ALL_tr/ads/news-and-inspiration
+[2026-03-22 16:27:06] HTTP error 404: https://youtube.com/intl/ALL_tr/ads/resources
+[2026-03-22 16:27:07] Crawled: https://youtube.com/intl/ALL_tr/ads/how-it-works/create-a-video-ad (200)
+[2026-03-22 16:27:07] Extracted 1513 total words, 692 unique from https://youtube.com/intl/ALL_tr/ads/how-it-works/create-a-video-ad
+[2026-03-22 16:27:07] Indexing 692 unique words from https://youtube.com/intl/ALL_tr/ads/how-it-works/create-a-video-ad
+[2026-03-22 16:27:07] HTTP error 404: https://youtube.com/intl/ALL_trtel:1-877-763-9810
+[2026-03-22 16:27:08] Crawled: https://youtube.com/intl/ALL_tr/ads (200)
+[2026-03-22 16:27:08] Extracted 1986 total words, 738 unique from https://youtube.com/intl/ALL_tr/ads
+[2026-03-22 16:27:08] Indexing 738 unique words from https://youtube.com/intl/ALL_tr/ads
+[2026-03-22 16:27:09] Crawled: https://youtube.com/intl/ALL_tr/ads/resources/best-practices (200)
+[2026-03-22 16:27:09] Extracted 1513 total words, 692 unique from https://youtube.com/intl/ALL_tr/ads/resources/best-practices
+[2026-03-22 16:27:09] Indexing 692 unique words from https://youtube.com/intl/ALL_tr/ads/resources/best-practices
+[2026-03-22 16:27:10] Crawled: https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign/budget (200)
+[2026-03-22 16:27:10] Extracted 1212 total words, 479 unique from https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign/budget
+[2026-03-22 16:27:10] Indexing 479 unique words from https://youtube.com/intl/ALL_tr/ads/how-it-works/set-up-a-campaign/budget
+[2026-03-22 16:27:11] Crawled: https://youtube.com/intl/ALL_tr/ads/faqs (200)
+[2026-03-22 16:27:11] Extracted 1986 total words, 738 unique from https://youtube.com/intl/ALL_tr/ads/faqs
+[2026-03-22 16:27:11] Indexing 738 unique words from https://youtube.com/intl/ALL_tr/ads/faqs
+[2026-03-22 16:27:12] Queue empty - crawl finished
+[2026-03-22 16:27:12] Crawler finished. Status: Finished, URLs crawled: 155
